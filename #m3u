@@ -1,1 +1,11 @@
-
+#M3U
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI Nasional" group-title="Indonesia",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld" tvg-name="TVRI World" group-title="Indonesia",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" group-title="Indonesia",Trans TV
+https://transvision.co.id:443/trans-tv/live.m3u8
+#EXTINF:-1 tvg-id="MetroTV" tvg-name="Metro TV" group-title="Indonesia",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvOne" tvg-name="tvOne" group-title="Indonesia",tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8

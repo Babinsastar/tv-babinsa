@@ -1,0 +1,48 @@
+#EXTM3U
+# ====== NASIONAL ======
+#EXTINF:-1 tvg-id="TVRI Nasional" group-title="Nasional",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TVRI Sport" group-title="Olahraga",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/TVRISport/hls/TVRISport.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV" group-title="Nasional",Trans TV
+https://live.cnnindonesia.com/livecnn/smil:trans_tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans7" group-title="Nasional",Trans7
+https://live.cnnindonesia.com/livecnn/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV" group-title="Nasional",Metro TV
+https://edge.medcom.id/live-edge/smil:metrotv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kompas TV" group-title="Nasional",Kompas TV
+https://live.cnnindonesia.com/livecnn/smil:kompas_tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV" group-title="Nasional",RTV
+https://live.cnnindonesia.com/livecnn/smil:rtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" group-title="Nasional",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnn_indonesia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Indonesia" group-title="Nasional",CNBC Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnbc_indonesia.smil/playlist.m3u8
+
+# ====== HIBURAN ======
+#EXTINF:-1 tvg-id="RCTI" group-title="Hiburan",RCTI
+https://vcdn.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+
+#EXTINF:-1 tvg-id="SCTV" group-title="Hiburan",SCTV
+https://vcdn.indostream.id/live/eds/sctv_fta/live_fta/sctv_fta.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar" group-title="Hiburan",Indosiar
+https://vcdn.indostream.id/live/eds/indosiar_fta/live_fta/indosiar_fta.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" group-title="Hiburan",ANTV
+https://vcdn.indostream.id/live/eds/antv_fta/live_fta/antv_fta.m3u8
+
+# ====== AUTO-UPDATE ======
+#EXTINF:-1 group-title="AutoUpdate",Repo Utama (dhanytv)
+https://raw.githubusercontent.com/dhanytv/iptv/master/playlist.m3u
+
+#EXTINF:-1 group-title="AutoUpdate",Repo Cadangan (iptv-org)
+https://raw.githubusercontent.com/iptv-org/iptv/master/regions/id.m3u

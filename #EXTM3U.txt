@@ -93,7 +93,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://object-streamo.emonaja.com/img/RCTI.png" group-title="Indonesia Channels",RCTI (Video)
-https://tvratu.my.id/vid/index.mpd?id=665&type=dash
+https://www.vidio.com/live/665-rcti
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
